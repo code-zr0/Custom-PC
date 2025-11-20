@@ -1,6 +1,6 @@
 # Custom-PC 
 
-Welcome to my personal gaming PC showcase — a high-performance, hand-built rig designed for immersive gameplay, creative workflows, and future-proof flexibility..
+Welcome to my personal gaming PC showcase — a high-performance, hand-built rig designed for immersive gameplay, creative workflows, and future-proof flexibility.
 
 ---
 
