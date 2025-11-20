@@ -36,8 +36,8 @@ Welcome to my personal gaming PC showcase — a high-performance, hand-built rig
 
 ## Build Goals
 
-- **Performance**: Smooth 1440p/4K gaming and multitasking
-- **Aesthetics**: Clean cable management, RGB accents, and a minimalist white/black theme
+- **Performance**: Smooth 1440p gaming and multitasking. Being able to run multiple processes at once without performance impact to the system.
+- **Aesthetics**: Clean cable management, RGB accents, and a minimalist black and blue theme. Soft tubing for efficient and simple water flow routing.
 - **Thermals**: Efficient airflow and liquid cooling for sustained performance
 - **Future-Proofing**: Modular components for easy upgrades
 
