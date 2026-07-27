@@ -72,5 +72,5 @@ Welcome to my personal gaming PC showcase — a high-performance, hand-built rig
 ## Future Upgrades
 
 - Add custom sleeved cables
-- Swap out installed fans for diasy-chaining fans
+- Swap out installed fans for daisy-chaining fans
 - Get a bigger wattage power supply unit
